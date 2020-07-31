@@ -1,27 +1,9 @@
----
-title: "Hydrogen and oxygen isotopic compositions of
-water vapor over the Bay of Bengal during monsoon"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Midhun M, Lekshmy P.R , and R Ramesh 2013; Hydrogen and oxygen isotopic compositions of
-water vapor over the Bay of Bengal during monsoon,  40, 6324-
-6328 (http://dx.doi.org/10.1002/2013GL058181)'
-date: 2012-12-01
-venue: 'Geophysical Research Letters'
-paperurl: 'http://dx.doi.org/10.1002/2013GL058181'
-citation: 'Midhun et al. (2013). &quot;Paper Title Number 3.&quot; <i>Geophysical Research Letters 40, 6324-
-6328</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
-
-
+--
 1. Lekshmy P.R , Midhun M, and R Ramesh (2019), Amount dependency of monsoon rainfall δ18O
 on multiple time scales: observations from south western India, Climate Dynamics,
 doi:10.1007/s00382-019-04620-8
+--
 2. Midhun M, Lekshmy PR, Ramesh R, Kei Yoshimura, Sandeep KK, Samresh Kumar,Rajiv
 Sinha, Ashutosh Singh and Shalivahan Srivastava (2018) The effect of monsoon circulation on
 the stable isotopic composition of rainfall, Journal of Geophysical Research – Atmospheres, doi:
@@ -40,4 +22,6 @@ multi-GCM simulations, Climate Dynamics (http://dx.doi.org/10.1007/s00382-015-26
 7. Lekshmy P.R , Midhun M, Ramesh R and R A Jani 2014;18O depletion in monsoon rain relates
 tolargescaleorganizedconvectionratherthantheamountofrainfall,ScientificReports,1-
 5(http://www.nature.com/articles/srep05661)
-8. 
+8. Midhun M, Lekshmy P.R , and R Ramesh 2013; Hydrogen and oxygen isotopic compositions of
+water vapor over the Bay of Bengal during monsoon, Geophysical Research Letters 40, 6324-
+6328 (http://dx.doi.org/10.1002/2013GL058181)
