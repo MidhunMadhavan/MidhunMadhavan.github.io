@@ -5,6 +5,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 # Welcome
+Midhun' personal website
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
