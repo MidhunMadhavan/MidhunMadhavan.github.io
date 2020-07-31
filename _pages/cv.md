@@ -1,8 +1,19 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-#Eduaction
+{% include base_path %}
 
-##BSc
+Education
+======
+* B.Sc. in Physics, Calicut University, India 2008
+* M.Sc. in Meteorology, Cochin University of Science and Technology, 2010
+* Ph.D in Science, Indian Institute of Technology Gandhingar, 2015
 
-##MSc
-
-##PhD
+Work experience
+======
