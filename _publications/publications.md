@@ -4,7 +4,7 @@
 -authors: Lekshmy P.R , Midhun M, and R Ramesh
 -journal:  Climate Dynamics
 -year : 2019
-doi: 10.1007/s00382-019-04620-8
+-doi: 10.1007/s00382-019-04620-8
 ---
 2. Midhun M, Lekshmy PR, Ramesh R, Kei Yoshimura, Sandeep KK, Samresh Kumar,Rajiv
 Sinha, Ashutosh Singh and Shalivahan Srivastava (2018) The effect of monsoon circulation on
