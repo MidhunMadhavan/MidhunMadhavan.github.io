@@ -1,5 +1,25 @@
 
 ---
+permalink: /publications/
+title: "Publication"
+author_profile: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/home_image.jpg
+excerpt: ''
+
+---
+
+***[Peer-reviewed journal articles]***
+
+
+**Midhun M**, Lekshmy PR, Ramesh R, Kei Yoshimura, Sandeep KK, Samresh Kumar,Rajiv
+Sinha, Ashutosh Singh and Shalivahan Srivastava (2018) The effect of monsoon circulation on
+the stable isotopic composition of rainfall, Journal of Geophysical Research – Atmospheres, doi:
+10.1029/2017JD027427
+
+
+---
 -title :  Amount dependency of monsoon rainfall δ18O on multiple time scales: observations from south western India
 -authors: Lekshmy P.R , Midhun M, and R Ramesh
 -journal:  Climate Dynamics
